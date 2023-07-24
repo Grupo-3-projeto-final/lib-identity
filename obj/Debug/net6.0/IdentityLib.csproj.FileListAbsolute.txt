@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\AppSettings.json
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\IdentityLib.deps.json
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\IdentityLib.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\IdentityLib.pdb
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\refint\IdentityLib.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityLib.pdb
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\ref\IdentityLib.dll

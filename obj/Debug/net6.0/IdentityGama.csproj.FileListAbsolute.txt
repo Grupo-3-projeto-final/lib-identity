@@ -1,0 +1,13 @@
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\IdentityGama.deps.json
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\IdentityGama.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\IdentityGama.pdb
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.csproj.AssemblyReference.cache
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.AssemblyInfoInputs.cache
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.AssemblyInfo.cs
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\refint\IdentityGama.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\IdentityGama.pdb
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\obj\Debug\net6.0\ref\IdentityGama.dll
+C:\Users\Matheus\source\repos\IdentityGama\IdentityGama\bin\Debug\net6.0\AppSettings.json
